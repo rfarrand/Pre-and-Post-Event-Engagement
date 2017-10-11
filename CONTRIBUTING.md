@@ -1,14 +1,11 @@
-# Contributing to [Project]
+# Contributing to Pre and Post Event Engagement
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Welcome! 
+Thank you for your interest in contributing to Pre and Post Event Engagement 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+I am working with Wikimedia Foundation and affiliates, other unconference and open source event organizers, and developers to come up with an open framework of ideas for engaging volunteers and communities both in advance of and after technical events so that new volunteers and non-profit / open source communities can stay engaged year round and both facilitate and plan in advance and continue work online afterwards..
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+Please read the following contributor guidelines for this project: 
 
 If your guide is long, consider adding a table of contents.
 
