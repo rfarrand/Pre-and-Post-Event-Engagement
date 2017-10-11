@@ -5,7 +5,7 @@ Welcome to the README for the Pre and Post Event Engagement fro the Mozilla Open
 
  I am working with Wikimedia Foundation and affiliates, other unconference and open source event organizers, and developers to come up with an open framework of ideas for engaging volunteers and communities both in advance of and after technical events so that new volunteers and non-profit / open source communities can stay engaged year round and both facilitate and plan in advance and continue work online afterwards.
 
-https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2015_-_Group_photo.jpg
+<img width="1196" alt="screen shot 2017-10-02 at 5 51 29 pm" src=https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2015_-_Group_photo.jpg
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](http://mozillascience.github.io/working-open-workshop/writing_readme/). ]
 
